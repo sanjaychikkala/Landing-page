@@ -10,6 +10,6 @@ ShopEase is a sleek, responsive landing page designed for an e-commerce brand or
 
 
 💡 What I Learned
-   Creating responsive layouts using flex/grid systems
-   Designing with accessibility and mobile-first principles
-   Optimizing for performance and SEO basics in static websites
+   Creating responsive layouts using flex/grid systems, 
+   Designing with accessibility and mobile-first principles, 
+   Optimizing for performance and SEO basics in static websites..
